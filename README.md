@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there Friend👋
 
 <!--
 **M4ban/M4ban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
